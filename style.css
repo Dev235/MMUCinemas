@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+body{
+  margin-top: 30px;
+  font-family: serif;
+  font-weight: 200;
+  background-image: url(https://i.pinimg.com/originals/8d/2a/f1/8d2af102a83186fc8cd0f2ba3ca60177.jpg);
+}
+
+#wrapper {
+    width: 1080px;
+		margin: auto;
+    clear: both;
+
+	}
+
+#header{
+    font-family: old town, fantasy;
+    font-weight: normal;
+    text-align: center;
+    background-color: #fdc029;
+}
+#header h1{
+  font-size: 50px;
+}
+
+#header h3{
+  font-size: 30px;
+}
+
+#footer{
+    height: 40px;
+    text-align: center;
+    background-color: #4f4b43;
+    padding-top: 15px;
+    margin-top: 300px;
+    width: 100%;
+    font-size: 25px;
+
+}
+
+#login{
+    text-align: center;
+    font-family: old town, fantasy;
+}
+
+#login ul{
+    list-style: none;
+    font-family: old town, fantasy;
+}
+
+#login ul li{
+  text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center;
+    height: 40px;
+		line-height: 40px;
+    font-family: old town, fantasy;
+}
+#login ul li a{
+  text-align: center;
+  text-decoration: none;
+  color: orange;
+  font-size: 20px;
+  margin-right: 100px;
+  font-family: old town, fantasy;
+}
+
+#login ul li a:hover{
+
+  text-align: center;
+  color: red;
+  display: block;
+  border-radius: 8px 8px 8px 8px;
+	transition: 0.7s;
+
+}
+
+
+#footer a{
+  color: orange;
+}
+
+#footer a:hover{
+  color: red;
+}
+
+#table{
+  min-height: 420px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color:  #fdc029;
+  color: black;
+
+
+}
+
+#table p{
+  text-align: center;
+  font-size: 25px;
+  font-family: cursive;
+}
+
+#table h4{
+  text-align: center;
+  font-size: 35PX;
+  text-decoration: underline;
+}
+
+#table a:hover{
+  color: red;
+  transition: 0.5s;
+}
+#Borang {
+  padding: 15px;
+  background-color: #FAEBD7;
+  margin: 14px auto;
+  width: 50%;
+  border: 2px solid green;
+  border-radius: 20px;
+  margin-bottom: 20px;
+
+
+}
+#Borang a{
+text-decoration: none;
+}
+
+#Borang input{
+
+padding: 6px;
+}
+
+#Borang a:hover{
+text-decoration: none;
+color: red;
+}
+
+#Borang input[type=submit]{
+background-color: pink;
+}

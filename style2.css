@@ -1,0 +1,167 @@
+*{
+	margin: 0;
+    padding: 0;
+}
+body{
+	font-family: cursive;
+	color: white;
+	background-color: #00202e;
+}
+
+
+
+#header{
+	font-family: "brody", regular;
+	font-weight: normal;
+	font-size: 30px;
+    text-align: center;
+    background-color: #00202e;
+
+}
+#footer{
+	margin-top: 20px;
+    height: 25px auto;
+    text-align: center;
+    padding-top: 15px;
+    width: 100%;
+	background-color: #4a9396;
+  	font-size: 16.5px;
+  	margin-bottom: 0px;
+
+
+	}
+
+	#menu{
+		padding-top: 15px;
+		float: left;
+		width:250px;
+	    height:730px;
+		background-color: #00202e;
+		border-radius: 0px 0px 0px 0px;
+		margin-bottom: -100px;
+		overflow-x: hidden;
+
+	}
+	#menu a:active{
+	color: blue;
+	}
+
+	#menu ul {
+	text-decoration: none;
+	list-style: none;
+	}
+
+	#menu ul a{
+		color: white;
+		text-decoration: none;
+		background-color: #00202e;
+		font-size: 15px;
+		display: block;
+		padding: 5px;
+
+	}
+
+	#menu ul a:hover{
+		background-color:#fdd03b;
+		transition: 0.5s;
+	}
+
+	#menu h3{
+		background-color: #cb7f07;
+		font-family: 'Times New Roman', Times, serif;
+		font-size: 20px;
+		color: white;
+		display:block;
+	}
+
+	#main{
+		height: 700px;
+		background-color: #4a9396;
+		min-height: 650px auto;
+		float:inline;
+		width: 96.8% auto;
+		padding: 20px;
+  		overflow: auto;
+}
+	}
+
+	#main h1{
+		padding-top: 3px;
+		padding-bottom: 3px;
+		text-align: center;
+	}
+
+	#main table{
+		width: 70%;
+		border-collapse: collapse;
+		margin: 10px auto;
+		border-color: black;
+		text-indent: 8px;
+
+	}
+
+	#main table{
+		text-decoration: none;
+	}
+
+	#main table th{
+		background-color: black;
+		color: #fff;
+		font-size: 16px;
+		padding:8px 8px;
+	}
+
+	#main table td{
+		padding:8px 8px;
+
+	}
+
+	#main table tr{
+		color: black;
+	}
+
+#borang {
+	background-color: #f2f2f2;
+	padding: 15px;
+	margin: 25px;
+	width: 52%;
+	border: 1px solid grey;
+	border-radius: 10px;
+	margin-bottom: 35px;
+
+}
+
+#borang a{
+	text-decoration: none;
+}
+
+#welcome2 p{
+	background-color: #00202e;
+	font-size: 20px;
+	font-family: garamond;
+	height: 40px;
+	margin-top: -15px;
+
+}
+
+#main h1{
+	font-size:20px;
+	text-decoration-line: underline;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: black;
+}
+
+#borang2 {
+	background-color: #f2f2f2;
+	padding: 15px;
+	margin: 25px;
+	width: 52%;
+	border: 1px solid grey;
+	border-radius: 10px;
+	margin-bottom: 35px;
+
+}
+
+#borang2 a{
+	text-decoration: none;
+}
